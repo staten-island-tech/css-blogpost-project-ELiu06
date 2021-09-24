@@ -1,0 +1,22 @@
+.background {
+  background-image: url(https://d7hftxdivxxvm.cloudfront.net/?resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FF5jwGQQy5N4aOSJD8zoXgA%252FFragonard%252C_The_Swing%2Bcopy.jpg&width=1200&quality=80);
+  padding: 5px 5px;
+}
+body {
+  background-color: rgb(3, 44, 44);
+  color: rgb(3, 65, 65);
+  font-size: 20px;
+  text-align: center;
+  font-family: font-family: 'Playfair Display', serif;
+
+}
+h1 {
+  color: rgb(49, 123, 133);
+}
+
+.image{
+  margin: 30px;
+}
+
+
+
