@@ -14,9 +14,17 @@ h1 {
   color: rgb(49, 123, 133);
 }
 
-.image{
-  margin: 30px;
+h2 {
+  color: rgb(49, 123, 133)
 }
+
+img{
+  margin: 40px;
+  font-size: 20px;
+  width: 50vw 
+}
+
+
 
 
 
