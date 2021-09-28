@@ -8,19 +8,26 @@ body {
   font-size: 20px;
   text-align: center;
   font-family: font-family: 'Playfair Display', serif;
-
 }
+
 h1 {
   color: rgb(49, 123, 133);
 }
 
 h2 {
+  color: rgb(49, 123, 133) 
+}
+
+h3, a {
   color: rgb(49, 123, 133)
 }
 
+
+
 img{
   margin: 40px;
-  font-size: 20px;
+  margin-bottom: 10px;
+  font-size: 10px;
   width: 50vw 
 }
 
